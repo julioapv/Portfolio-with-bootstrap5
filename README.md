@@ -9,6 +9,8 @@ I use the proposed layout but used a different color palette, icons and fonts.
 
 Thanks to this project I am now able to use Bootstrap 5 with ease alongside CSS and HTML.
 
+Live demo here: https://julioapv.github.io/Portfolio-with-bootstrap5/
+
 *I don't have any plans to update this repo adding JS or React. I will focus on building new and more interesting projects*
 
 ### Enjoy! :)
